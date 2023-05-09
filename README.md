@@ -1,3 +1,12 @@
+<p align="center">
+  <img width="468" height="60" src="https://s12.gifyu.com/images/mgXhub.gif">
+</p>
+<p align="center" style="font-weight:bold">【AD】 mgXhub | Discord Server Promotion 【AD】</p>
+<p align="center" style="font-weight:bold">Want to find more servers with services or servers to talk?</p>
+<p align="center" style="font-weight:bold">mgXhub is the solution. Head over to the link below to</p>
+<p align="center" style="font-weight:bold">find or promote servers. https://discord.gg/8ah7pkducm</p>
+<p align="center" style="font-weight:bold">╚═════════════════════════════════════════════════════╝</p>
+
 # VMware Workstation 17 Pro KEYS
 [english] In this repo, you have all the keys that may work with VMWare Workstation 17 Pro. Useful if you're too poor to afford a damn $199 license. The key codes that were tested will be here, in Readme.md. If you want to test untested codes, go to UNTESTED.MD, copy a key, paste it to VMware, and then comment or DM if it works or not.
 
