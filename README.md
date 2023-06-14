@@ -1,16 +1,5 @@
-<p align="center">
-  <img width="468" height="60" src="https://s12.gifyu.com/images/mgXhub.gif">
-</p>
-<p align="center" style="font-weight:bold">【AD】 mgXhub | Discord Server Promotion 【AD】</p>
-<p align="center" style="font-weight:bold">Want to find more servers with services or servers to talk?</p>
-<p align="center" style="font-weight:bold">mgXhub is the solution. Head over to the link below to</p>
-<p align="center" style="font-weight:bold">find or promote servers. https://discord.gg/8ah7pkducm</p>
-<p align="center" style="font-weight:bold">╚═════════════════════════════════════════════════════╝</p>
-
 # VMware Workstation 17 Pro KEYS
-[english] In this repo, you have all the keys that may work with VMWare Workstation 17 Pro. Useful if you're too poor to afford a damn $199 license. The key codes that were tested will be here, in Readme.md. If you want to test untested codes, go to UNTESTED.MD, copy a key, paste it to VMware, and then comment or DM if it works or not.
-
-[română] In acest repositoriu, aveti toate codurile care pot funcționa cu VMWare Workst. 17 Pro. Folositor dacă sunteți prea săraci să dați bani pe o licență de 199$. Codurile care au fost testate vor fi puse aici, în Readme.md. Dacă vreți să testați alte coduri care nu au fost folosite, duceți-vă pe UNTESTED.MD, copiați un cod, insertați-l în VMware, și dați un DM sau băgați un comentariu aici dacă funcționează sau nu.
+IF A KEY DOES NOT WORK PLEASE TRY ANOTHER TESTED KEY OR UNTESTED KEY FROM UNTESTED.MD
 
 # Tested Keys
 ==> MC60H-DWHD5-H80U9-6V85M-8280D // tested 17.03.2023 6:22 p.m.
