@@ -1,6 +1,6 @@
 # VMware Workstation 17 Pro KEYS
 IF A KEY DOES NOT WORK PLEASE TRY ANOTHER TESTED KEY OR UNTESTED KEY FROM UNTESTED.MD
-<br>Join ShurikenFORUMS for more cracks/leaks: https://shurik-t.ml
+<br>Join ShurikenFORUMS for more cracks/leaks: https://shuriken.pm
 
 # Tested Keys
 ==> MC60H-DWHD5-H80U9-6V85M-8280D // tested 17.03.2023 6:22 p.m.
